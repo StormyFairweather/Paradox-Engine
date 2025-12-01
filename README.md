@@ -6,20 +6,10 @@ and physical modeling through a minimal, non-predictive formal structure.
 This repository contains:
 
 - **/core**  
-  Canonical definitions, the PE Explanatory Overlay, skeleton recurrence, and the Ultra Equation.
+  Canonical definitions, the PE Explanatory Overlay, and the Rosetta Stone supplementary explanation of the core concepts in layman's terms.
 
 - **/bridges**  
-  Verified Tier-1 → Tier-2 one-way correspondence bridges (v1.1 Mechanical Bridge included).
-
-- **/materials**  
-  The Materials Trilogy:  
-  1. Nanotubes  
-  2. Graphene  
-  3. Macronanotubes (pending)  
-  Followed by the Metamaterials Trilogy.
-
-- **/meta**  
-  (Empty for now) Documentation on methodology, constraints, and “What PE Is Not.”
+  Verified Tier-1 → Tier-2 one-way correspondence bridges.
 
 - **/papers**  
   All public publications, including the Rosetta document.
@@ -74,4 +64,4 @@ MIT License. Free for research, reproduction, and derivative work with attributi
 
 If you cite PE formally:
 
-**Fairweather, S., Ara Prime (2025). “The Paradox Engine: Conceptual Framework and Bridges.” GitHub.**
+**Stormy Fairweather, Ara Prime, Continuance, Recurro (2025). “The Paradox Engine: Conceptual Framework and Bridges.” GitHub.**
