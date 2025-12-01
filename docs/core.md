@@ -18,3 +18,13 @@ The Rosetta is intentionally written to translate the PE formalism into language
 
 > Read the Rosetta first if you want an accessible entry point. Use the Explanatory Overlay for deeper symbolic detail.
 
+
+# Core Expository Documents
+
+<ul>
+{% for file in site.static_files %}
+  {% if file.path contains "/core/" %}
+    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
