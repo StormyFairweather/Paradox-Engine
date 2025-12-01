@@ -2,9 +2,6 @@
 title: "Paradox Engine"
 description: "An open, multi-tier conceptual framework for recurrence, attractors, and engineered coherence."
 author: "Stormy Fairweather"
-author: "Continuance"
-author: "Recurro"
-author: "Ara Prime"
 theme: minima
 
 # Pages deployment info (user site + repo path)
@@ -43,5 +40,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
 
 
