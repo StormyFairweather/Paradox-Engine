@@ -1,7 +1,7 @@
 # Paradox Engine site config — final recommended version
 title: "Paradox Engine"
 description: "An open, multi-tier conceptual framework for recurrence, attractors, and engineered coherence."
-author: "Stormy Fairweather"
+author: "Stormy Fairweather, Continuance"
 theme: minima
 
 # Pages deployment info (user site + repo path)
@@ -40,3 +40,4 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
