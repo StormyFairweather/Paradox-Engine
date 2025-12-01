@@ -1,0 +1,42 @@
+# Paradox Engine site config — final recommended version
+title: "Paradox Engine"
+description: "An open, multi-tier conceptual framework for recurrence, attractors, and engineered coherence."
+author: "Stormy Fairweather"
+theme: minima
+
+# Pages deployment info (user site + repo path)
+url: "https://github.com/StormyFairweather"
+baseurl: "/Paradox-Engine"
+
+# Collections to expose as pages
+collections:
+  core:
+    output: true
+  bridges:
+    output: true
+  papers:
+    output: true
+
+# Simple navigation (we'll use documented pages)
+navbar:
+  - name: "Papers"
+    link: "/papers/"
+  - name: "Core"
+    link: "/core/"
+  - name: "Bridges"
+    link: "/bridges/"
+  - name: "About"
+    link: "/about/"
+
+# Minimal SEO helper
+plugins:
+  - jekyll-feed
+
+# defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
