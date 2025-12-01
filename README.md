@@ -54,8 +54,6 @@ All Paradox Engine, and adjacent, documents are also archived on Zenodo for perm
 
 ---
 
----
-
 ## Formal Overview (academic)
 
 The Paradox Engine is a tiered correspondence framework distinguishing:
@@ -71,7 +69,6 @@ Bridges define the *language* researchers should use when describing PE-pertinen
 - `/papers` — Tier 2 applied work and reproducible protocols.
 
 **Contact & citation:** See top of the repository for canonical citation and DOI links.
-
 
 ---
 
