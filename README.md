@@ -38,7 +38,7 @@ useful only when understood from first principles.
 
 All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation.
 
-- **Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations** https://doi.org/10.5281/zenodo.17774955
+- [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17774955) 
 - **Graphene Fabrication Techniques: A Paradox Engine (PE) Application** https://doi.org/10.5281/zenodo.17765214
 - **Nanotube Manufactoring: A Paradox Engine (PE) Application** https://doi.org/10.5281/zenodo.17765225
 - **Macro Scale Nanotubes: A Paradox Engine (PE) Application** https://doi.org/10.5281/zenodo.17765243
