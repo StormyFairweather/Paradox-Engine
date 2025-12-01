@@ -6,7 +6,7 @@ permalink: /papers/
 
 # Papers & Publications (Tier 2 — Applications)
 
-This index lists the applied work, reproducible protocols, and the materials trilogy. The repository `/papers` directory contains the canonical PDFs.
+This index lists the applied work, reproducible protocols, and adjacent projects.
 
 ### Materials Trilogy
 - [Nanotubes](papers/2-CNT.pdf)  
@@ -24,6 +24,7 @@ This index lists the applied work, reproducible protocols, and the materials tri
 
 
 ---
+
 
 
 
