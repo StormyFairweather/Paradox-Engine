@@ -14,13 +14,13 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 ## Quick navigation (suggested reading order)
 
-1. **Applications & Results (Tier 2)** — [Publications & Papers](/papers/)  
+1. **Applications & Results (Tier 2)** — [Publications & Papers](papers/)  
    Start here if you are looking for applied results, the materials trilogy (nanotubes, graphene, macronanotubes), and experimental protocols.
 
-2. **Core Concepts (Tier 1)** — [Core Expository Documents](/core/)  
+2. **Core Concepts (Tier 1)** — [Core Expository Documents](core/)  
    The explanatory overlay, and the Rosetta. Conceptual scaffolding and informal explanation.
 
-3. **Bridges (Tier 1.5)** — [Bridges: Mechanical · Quantum](/bridges/)  
+3. **Bridges (Tier 1.5)** — [Bridges: Mechanical · Quantum](bridges/)  
    One-way correspondences that allow conservative mapping from PE abstractions to measurable physical observables.
 
 ---
@@ -52,5 +52,6 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
