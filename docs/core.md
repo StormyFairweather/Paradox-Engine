@@ -1,3 +1,11 @@
+<ul>
+{% for file in site.static_files %}
+  {% if file.path contains "/core/" %}
+    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 ---
 title: Core Documents (Tier 1)
 layout: default
@@ -21,10 +29,5 @@ The Rosetta is intentionally written to translate the PE formalism into language
 
 # Core Expository Documents
 
-<ul>
-{% for file in site.static_files %}
-  {% if file.path contains "/core/" %}
-    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+
+
