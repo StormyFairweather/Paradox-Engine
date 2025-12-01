@@ -54,6 +54,27 @@ All Paradox Engine, and adjacent, documents are also archived on Zenodo for perm
 
 ---
 
+---
+
+## Formal Overview (academic)
+
+The Paradox Engine is a tiered correspondence framework distinguishing:
+- **Tier 1:** Formal recurrence algebra and attractor operators (symbolic).  
+- **Tier 1.5:** Bridges — conservative one-way mapping rules from Tier 1 abstractions to Tier 2 observables.  
+- **Tier 2:** Physical systems (materials, metamaterials, engineered prototypes).
+
+Bridges define the *language* researchers should use when describing PE-pertinent results (permitted phrases, forbidden claims, explicit falsification criteria). Experimental claims must anchor on Tier 2 measurements; Bridges only provide interpretive mappings and testable expectations.
+
+**Repository structure:**
+- `/core` — Tier 1 documents (Rosetta; Explanatory Overlay).  
+- `/bridges` — Tier 1.5 mapping documents (mechanical & quantum).  
+- `/papers` — Tier 2 applied work and reproducible protocols.
+
+**Contact & citation:** See top of the repository for canonical citation and DOI links.
+
+
+---
+
 ## License
 
 MIT License. Free for research, reproduction, and derivative work with attribution.
