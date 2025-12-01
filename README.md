@@ -13,6 +13,8 @@ This repository contains:
 
 - **/papers**  
   All public publications, including the Rosetta document.
+  
+Note: The Rosetta is intentionally designed as an accessible translation of the PE formalism for non-specialists. Read it first if you want a clear conceptual entry point.
 
 ---
 
