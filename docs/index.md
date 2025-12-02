@@ -1,5 +1,5 @@
----
-{% include seo.html %}
+
+
 
 # Paradox Engine
 
@@ -50,6 +50,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 
 ---
 
+{% include seo.html %}
 
 
 
