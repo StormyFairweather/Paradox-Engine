@@ -18,7 +18,7 @@ The Rosetta is intentionally written to translate the PE formalism into language
 > Read the Rosetta first if you want an accessible entry point. Use the Explanatory Overlay for deeper symbolic detail.
 
 
-# Core Expository Documents
+
 
 
 
