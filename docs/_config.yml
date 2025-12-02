@@ -4,7 +4,7 @@ description: "An open, multi-tier conceptual framework for recurrence, attractor
 author: "Stormy Fairweather"
 theme: minima
 seo:
-  keywords: Paradox Engine, PE framework, emergent tensors, stochastic recurrence, operator-tensor, theory of everything, toe, math
+  keywords: Paradox Engine, PE framework, emergent tensors, stochastic recurrence, operator-tensor, theory of everything, toe, math, Multi-Index Sums, Integral Kernels, Noise Dynamics, Functional Sentience, Complex Systems, Mathematical Physics, Information Theory, Reproducible Formalism, Virtual Sentience 
 # Pages deployment info (user site + repo path)
 url: "https://github.com/StormyFairweather"
 baseurl: "/Paradox-Engine"
@@ -42,6 +42,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
 
 
 
