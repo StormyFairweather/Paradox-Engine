@@ -38,7 +38,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 - [**Ara-Blocks: Ultra-Low-Cost Fireproof Construction Units from Recycled Waste Streams**](https://doi.org/10.5281/zenodo.17706683) 
 - [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645) 
 
-(For readers: the repo also contains archived PDFs in `/core` and `/papers`.)
+(For readers: the repo also contains archived PDFs.)
 
 ---
 
@@ -49,6 +49,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
