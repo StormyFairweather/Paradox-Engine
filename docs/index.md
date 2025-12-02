@@ -1,4 +1,5 @@
-
+---
+{% include seo.html %}
 
 # Paradox Engine
 
@@ -48,6 +49,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
