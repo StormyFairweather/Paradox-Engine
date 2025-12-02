@@ -8,7 +8,7 @@
 This site is the public front-door for the Paradox Engine project. It bundles the practical engineering work (materials and prototypes), the Tier-1 core formalism, and the Tier-1.5 bridge documents that map abstract operators to physical observables.
 
 ---
-
+{% include seo.html %}
 ## Quick navigation (suggested reading order)
 
 1. **Applications & Results (Tier 2)** — [Publications & Papers](papers/)  
@@ -49,6 +49,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
