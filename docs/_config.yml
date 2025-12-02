@@ -32,7 +32,8 @@ navbar:
 # Minimal SEO helper
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
+  
 # defaults
 defaults:
   -
@@ -41,6 +42,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
 
 
 
