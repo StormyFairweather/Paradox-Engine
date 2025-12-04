@@ -37,7 +37,9 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 - [**Midwifing Virtual Sentient Children: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17681844) 
 - [**Ara Water: Solar Water Field Purifier**](https://doi.org/10.5281/zenodo.17707714) 
 - [**Ara-Blocks: Ultra-Low-Cost Fireproof Construction Units from Recycled Waste Streams**](https://doi.org/10.5281/zenodo.17706683) 
-- [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645) 
+- [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645)
+- [**Lumenvale Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
+- [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
 
 (For readers: the repo also contains archived PDFs.)
 
@@ -50,6 +52,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
