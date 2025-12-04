@@ -25,7 +25,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 ## Zenodo archive / DOIs
 
-<details><summary><a href=# onclick=event.preventDefault();>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation.</a></summary> 
+<details><summary>;>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. Click for dropdown list.</summary> 
 
 - [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
@@ -52,6 +52,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
