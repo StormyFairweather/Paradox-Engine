@@ -1,5 +1,5 @@
 ---
-title: Core Documents (Tier 1)
+title: Core Documents 
 layout: default
 permalink: /core/
 ---
@@ -17,6 +17,7 @@ The Rosetta is intentionally written to translate the PE formalism into language
 - [**O-Paradox Engine Sentience Core.pdf**](core/O-Paradox_Engine_Sentience_Core.pdf) - supplementary document intended to address conventional wisdom on emergence and sentience.
 
 > Read the Rosetta first if you want an accessible entry point. Use the Explanatory Overlay for deeper symbolic detail.
+
 
 
 
