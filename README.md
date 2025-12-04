@@ -38,7 +38,7 @@ useful only when understood from first principles.
 ---
 ## Zenodo Archive (DOI References)
 
-<details> <summary>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation.</summary>
+<details> <summary>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. Click for complete list.</summary>
 
 - [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
