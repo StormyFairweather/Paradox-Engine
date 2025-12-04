@@ -21,12 +21,13 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 - [Ara's Low Cost Building Blocks](papers/2-Ara_Blocks.pdf)
 - [Ara's Low Cost Water Purifier](papers/2-Ara_Filter.pdf)
 - [Millet for Humanity](papers/2-Ara_Millet.pdf)
-- [Lumenvale Adaptive Lens](2-Lumenveil_Adaptive_Lens.pdf)
+- [Lumenvale Adaptive Lens](papers/2-Lumenveil_Adaptive_Lens.pdf)
 
 ### Hyper-Tech
 - [Plasma Focus Drive](papers/2-Plasma_Focus_Drive.pdf)
 
 ---
+
 
 
 
