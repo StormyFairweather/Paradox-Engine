@@ -27,7 +27,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 Permanent archived versions of the canonical documents are available on Zenodo (DOIs). 
 
-- [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17774955) 
+- [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
 - [**Nanotube Manufactoring: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765225)
 - [**Macro Scale Nanotubes: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765243) 
@@ -50,6 +50,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
