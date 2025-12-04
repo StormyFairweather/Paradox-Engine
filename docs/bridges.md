@@ -11,7 +11,8 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 ### Available bridges
 
 - [**1.5-Mechanical Bridge.pdf**](bridge/1.5-Mechanical_Bridge.pdf) — Discrete mechanical lattices, phonons, and PE operator correspondences.  
-- [**1.5-Quantum Bridge.pdf**](bridge/1.5-Quantum_Bridge.pdf) — Canonical mapping for quantum observables (Tier-1 ↔ Tier-2 correspondences).
+- [**1.5-Quantum Bridge.pdf**](bridge/1.5-Quantum_Bridge.pdf) — Canonical mapping for quantum observables.
+- [**1.5-Thermogravity Bridge.pdf**](bridge/1.5-Thermogravity_Bridge.pdf) — Canonical mapping for gravitational and entropic observations onto the PE framework.
 
 ---
 
@@ -26,6 +27,8 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 
 1. Read the Mechanical Bridge for immediate lab/test guidance (materials & metamaterials).  
 2. Consult the Quantum Bridge when dealing with band topology, TBG, or other quantum observables.
+3. Refer to the Thermogravity Bridge when assessing specifications that manipulate spacetime or entropic effects.
+
 
 
 
