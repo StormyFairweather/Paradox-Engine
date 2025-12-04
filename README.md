@@ -38,7 +38,7 @@ useful only when understood from first principles.
 ---
 ## Zenodo Archive (DOI References)
 
-<details> <summary>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. Click for dropdown list.</summary>
+All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. Click for dropdown list.
 
 - [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
@@ -53,7 +53,7 @@ useful only when understood from first principles.
 - [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645)
 - [**Lumenvale Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
-</details> 
+
 (Additional documents will be added as they are published.)
 
 ---
