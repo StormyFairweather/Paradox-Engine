@@ -25,7 +25,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 ## Zenodo archive / DOIs
 
-Permanent archived versions of the canonical documents are available on Zenodo (DOIs). 
+<details><summary><a href=# onclick=event.preventDefault();>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation.</a></summary> 
 
 - [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
@@ -40,7 +40,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 - [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645)
 - [**Lumenvale Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
-
+</details>
 (For readers: the repo also contains archived PDFs.)
 
 ---
@@ -52,6 +52,7 @@ Permanent archived versions of the canonical documents are available on Zenodo (
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
