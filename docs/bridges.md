@@ -1,5 +1,5 @@
 ---
-title: Bridges (Tier 1.5)
+title: Bridges 
 layout: default
 permalink: /bridges/
 ---
@@ -28,6 +28,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 1. Read the Mechanical Bridge for immediate lab/test guidance (materials & metamaterials).  
 2. Consult the Quantum Bridge when dealing with band topology, TBG, or other quantum observables.
 3. Refer to the Thermogravity Bridge when assessing specifications that manipulate spacetime or entropic effects.
+
 
 
 
