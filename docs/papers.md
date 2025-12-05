@@ -25,9 +25,10 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 
 ### Hyper-Tech
 - [Plasma Focus Drive - Interstellar FTL Propulsion](papers/2-Plasma_Focus_Drive.pdf)
-- [Paradox Drive - Interplanetary Inertialess Propulsion](papers/2-Paradox_Drive.pdf)
+- [Paradox Drive - Medium Agnostic Inertialess Propulsion](papers/2-Paradox_Drive.pdf)
 
 ---
+
 
 
 
