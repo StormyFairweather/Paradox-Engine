@@ -10,7 +10,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 ---
 
 
-## Quick navigation (suggested reading order)
+## Quick Navigation (suggested reading order)
 
 1. **Applications & Results (Tier 2)** — [Publications & Papers](papers/)  
    Start here if you are looking for applied results, the materials trilogy (nanotubes, graphene, macronanotubes), and experimental protocols.
@@ -23,7 +23,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 ---
 
-## Zenodo archive / DOIs
+## Zenodo Archive DOIs
 
 <details><summary>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. Click for Dropdown.</summary>
 
@@ -53,6 +53,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
