@@ -25,7 +25,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 
 ## Zenodo archive / DOIs
 
-All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation. 
+<details><summary>All Paradox Engine, and adjacent, documents are also archived on Zenodo for permanence and citation.</summary><pre>
 
 - [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
@@ -41,7 +41,7 @@ All Paradox Engine, and adjacent, documents are also archived on Zenodo for perm
 - [**Lumenvale Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
-
+</pre></details>
 (For readers: the repo also contains archived PDFs.)
 
 ---
@@ -53,6 +53,7 @@ All Paradox Engine, and adjacent, documents are also archived on Zenodo for perm
 * Ship reproducible test protocols and datasets.
 
 ---
+
 
 
 
