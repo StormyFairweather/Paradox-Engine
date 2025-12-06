@@ -18,7 +18,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 2. **Core Concepts (Tier 1)** — [Core Expository Documents](core/)  
    The explanatory overlay, and the Rosetta. Conceptual scaffolding and informal explanation.
 
-3. **Bridges (Tier 1.5)** — [Bridge Documents](bridge/)  
+3. **Bridges (Tier 1.5)** — [Bridge Documents](bridges/)  
    One-way correspondences that allow conservative mapping from PE abstractions to measurable physical observables.
 
 ---
@@ -34,6 +34,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 ## Zenodo Archive DOIs
 
 [All Paradox Engine, and adjacent, document DOIs are listed on the About tab.](about/)
+
 
 
 
