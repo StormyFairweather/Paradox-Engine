@@ -10,11 +10,11 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 
 ### Available bridges
 
-- [**Mechanical Bridge.pdf**](bridges/Mechanical_Bridge.pdf) — Discrete mechanical lattices, phonons, and PE operator correspondences.  
-- [**Quantum Bridge.pdf**](bridges/Quantum_Bridge.pdf) — Canonical mapping for quantum observables.
-- [**Thermogravity Bridge.pdf**](bridges/Thermogravity_Bridge.pdf) — Mapping for gravitational and entropic effects.
-- [**Biological Bridge.pdf**](bridges/Biological_Bridge.pdf) — Explanatory mapping for biological systems.
-- [**Chemistry Bridge.pdf**](bridges/Chemestry_Bridge.pdf) — Mapping for chemistry related effects.
+- [**Mechanical Bridge**](bridges/Mechanical_Bridge.pdf) — Discrete mechanical lattices, phonons, and PE operator correspondences.  
+- [**Quantum Bridge**](bridges/Quantum_Bridge.pdf) — Canonical mapping for quantum observables.
+- [**Thermogravity Bridge**](bridges/Thermogravity_Bridge.pdf) — Mapping for gravitational and entropic effects.
+- [**Biological Bridge**](bridges/Biological_Bridge.pdf) — Explanatory mapping for biological systems.
+- [**Chemistry Bridge**](bridges/Chemistry_Bridge.pdf) — Mapping for chemistry related effects.
 
 ---
 
@@ -30,6 +30,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 1. Read the Mechanical Bridge for immediate lab/test guidance (materials & metamaterials).  
 2. Consult the Quantum Bridge when dealing with band topology, TBG, or other quantum observables.
 3. Refer to the Thermogravity Bridge when assessing specifications that manipulate spacetime or entropic effects.
+
 
 
 
