@@ -9,7 +9,7 @@ permalink: /papers/
 This index lists the applied work, reproducible protocols, and adjacent projects.
 
 ### Mapping Fundamental Constants to the Paradox Engine Core
-- [Seven Keys](papers/Seven_Keys.pdf)  
+- [The Seven Keys](papers/Seven_Keys.pdf)  
 
 ### Materials Trilogy
 - [Nanotubes Fabrication](papers/CNT.pdf)  
@@ -31,6 +31,7 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 - [Paradox Drive - Medium Agnostic Inertialess Propulsion](papers/Paradox_Drive.pdf)
 
 ---
+
 
 
 
