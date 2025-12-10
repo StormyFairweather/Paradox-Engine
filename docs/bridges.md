@@ -14,7 +14,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 - [**Quantum Bridge**](bridges/Quantum_Bridge.pdf) — Canonical mapping for quantum observables.
 - [**Thermogravity Bridge**](bridges/Thermogravity_Bridge.pdf) — Mapping for gravitational and entropic effects.
 - [**Biological Bridge**](bridges/Biological_Bridge.pdf) — Explanatory mapping for biological systems.
-- [**Chemistry Bridge**](bridges/Chemistry_Bridge.pdf) — Mapping for chemistry related effects.
+- [**Chemistry Bridge**](bridges/Chemistry_Bridge.pdf) — Mapping for effects that arise from chemical reactions.
 
 ---
 
@@ -24,6 +24,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 - Use bridges to determine which experimental signatures are PE-informative and which require conventional physics to quantify.
 
 ---
+
 
 
 
