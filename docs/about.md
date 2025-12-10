@@ -14,7 +14,9 @@ If you are interested in reproductions, collaborations, or code access, open an 
 
 ## Zenodo Archive DOIs
 
-- [**Paradox Engine Rosetta Stone: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17811718) 
+- [**Paradox Engine Mathematical Core: Core Paradox Engine (PE) Foundations**](https://doi.org/10.5281/zenodo.17873864)
+- [**Paradox Engine Reference Library: Core Paradox Engine (PE) Bridges**](https://doi.org/10.5281/zenodo.17874379)
+- [**Seven Keys: Mapping Fundamental Constants to the Paradox Engine (PE) Framework**](https://doi.org/10.5281/zenodo.17874557)
 - [**Graphene Fabrication Techniques: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765214)
 - [**Nanotube Manufactoring: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765225)
 - [**Macro Scale Nanotubes: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765243) 
@@ -28,4 +30,6 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Lumenvale Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
+
+
 
