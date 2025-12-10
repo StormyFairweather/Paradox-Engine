@@ -25,11 +25,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 
 ---
 
-## Recommended path
 
-1. Read the Mechanical Bridge for immediate lab/test guidance (materials & metamaterials).  
-2. Consult the Quantum Bridge when dealing with band topology, TBG, or other quantum observables.
-3. Refer to the Thermogravity Bridge when assessing specifications that manipulate spacetime or entropic effects.
 
 
 
