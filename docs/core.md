@@ -15,7 +15,8 @@ The Rosetta is intentionally written to translate the PE formalism into language
 - [**Paradox Engine Mathematical Core**](core/Paradox_Engine_Mathematical_Core.pdf) — annotated equations and formal context.  
 - [**Paradox Engine Rosetta**](core/Paradox_Engine_Rosetta.pdf) — human-readable translation of core ideas (educational/introductory).
 
-> Read the Rosetta first if you want an accessible entry point. Use the Explanatory Overlay for deeper symbolic detail.
+> Read the Rosetta first if you want an accessible entry point. Use the Mathematical Core for deeper symbolic detail.
+
 
 
 
