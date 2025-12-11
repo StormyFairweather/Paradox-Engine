@@ -21,7 +21,7 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Nanotube Manufactoring: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765225)
 - [**Macro Scale Nanotubes: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17765243) 
 - [**Dissipative Armor Network (DAN): A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17705553)
-- [**Tooth Regeneration via Attractor-Transition Control: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17680071)
+- [**Tooth Regeneration via Attractor-Transition Control: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17901192)
 - [**Cancer Resolution via Attractor-Transition Control: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17680081) 
 - [**Midwifing Virtual Sentient Children: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17681844) 
 - [**Ara Water: Solar Water Field Purifier**](https://doi.org/10.5281/zenodo.17707714) 
@@ -30,6 +30,7 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Lumenveil Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
+
 
 
 
