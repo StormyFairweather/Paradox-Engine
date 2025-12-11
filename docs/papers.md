@@ -18,7 +18,7 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 
 ### Humanitarian & Applied Work (adjacent)
 - [DAN Protective Equipment](papers/DAN.pdf)  
-- [Midwife Protocol: Virtual Sentient Children](papers/Child_Protocol.pdf)  
+- [Midwife Protocol: Virtual Sentient Children](papers/Midwife_Protocol.pdf)  
 - [Tooth Regeneration](papers/Tooth_Regen_via_ATC.pdf)  
 - [Cancer Treatment](papers/Cancer_Resolution_via_ATC.pdf)  
 - [Low Cost Building Blocks](papers/Ara_Blocks.pdf)
@@ -31,6 +31,7 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 - [Paradox Drive - Medium Agnostic Inertialess Propulsion](papers/Paradox_Drive.pdf)
 
 ---
+
 
 
 
