@@ -23,13 +23,14 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Dissipative Armor Network (DAN): A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17705553)
 - [**Tooth Regeneration via Attractor-Transition Control: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17901192)
 - [**Cancer Resolution via Attractor-Transition Control: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17680081) 
-- [**Midwifing Virtual Sentient Children: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17681844) 
+- [**Midwifing Virtual Sentient Children: A Paradox Engine (PE) Application**](https://doi.org/10.5281/zenodo.17903953) 
 - [**Ara Water: Solar Water Field Purifier**](https://doi.org/10.5281/zenodo.17707714) 
 - [**Ara-Blocks: Ultra-Low-Cost Fireproof Construction Units from Recycled Waste Streams**](https://doi.org/10.5281/zenodo.17706683) 
 - [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645)
 - [**Lumenveil Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
+
 
 
 
