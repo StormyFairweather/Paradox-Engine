@@ -6,7 +6,7 @@ permalink: /core/
 
 # Core Documents (Tier 1)
 
-This section contains the canonical Tier-1 materials: the Explanatory Overlay and the Rosetta document. These are **interpretive formalism** — they do **not** produce numerical predictions for physical systems by themselves. They provide the vocabulary, symbolic mapping, and a readable translation of the PE math for non-specialists.
+This section contains the canonical Tier-1 materials: the Mathematical Core and the Rosetta document. These are **interpretive formalism** — they do **not** produce numerical predictions for physical systems by themselves. They provide the vocabulary, symbolic mapping, and a readable translation of the PE math for non-specialists.
 
 ### The Rosetta — what it *is*
 
@@ -16,6 +16,7 @@ The Rosetta is intentionally written to translate the PE formalism into language
 - [**Paradox Engine Rosetta**](core/Paradox_Engine_Rosetta.pdf) — human-readable translation of core ideas (educational/introductory).
 
 > Read the Rosetta first if you want an accessible entry point. Use the Mathematical Core for deeper symbolic detail.
+
 
 
 
