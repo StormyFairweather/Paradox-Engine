@@ -28,8 +28,10 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Ara-Blocks: Ultra-Low-Cost Fireproof Construction Units from Recycled Waste Streams**](https://doi.org/10.5281/zenodo.17706683) 
 - [**Millet for Humanity: Biofortified Climate-Resilient Grain for Micronutrient Security**](https://doi.org/10.5281/zenodo.17705645)
 - [**Lumenveil Adaptive Lens: Dual-Control Variable-Focus Optical Element**](https://doi.org/10.5281/zenodo.17812529)
-- [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
+- [**Paradox Reactor: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17907167)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
+- [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
+
 
 
 
