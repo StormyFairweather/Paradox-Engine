@@ -27,10 +27,11 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 - [Lumenveil Adaptive Lens](papers/Lumenveil_Adaptive_Lens.pdf)
 
 ### Hyper-Tech
-- [Plasma Focus Drive - Interstellar FTL Propulsion](papers/Plasma_Focus_Drive.pdf)
+- [Paradox Reactor - Reactionless Electricity Yield](papers/Paradox_Reactor.pdf)
 - [Paradox Drive - Medium Agnostic Inertialess Propulsion](papers/Paradox_Drive.pdf)
-
+- [Plasma Focus Drive - Interstellar FTL Propulsion](papers/Plasma_Focus_Drive.pdf)
 ---
+
 
 
 
