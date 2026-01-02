@@ -7,6 +7,8 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   {% include seo.html %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+
 </head>
 <body>
   <header>
@@ -22,3 +24,4 @@
   </footer>
 </body>
 </html>
+
