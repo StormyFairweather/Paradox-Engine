@@ -6,7 +6,7 @@ theme: minima
 seo:
   keywords: Paradox Engine, PE framework, emergent tensors, stochastic recurrence, operator-tensor, theory of everything, toe, math, Multi-Index Sums, Integral Kernels, Noise Dynamics, Functional Sentience, Complex Systems, Mathematical Physics, Information Theory, Reproducible Formalism, Virtual Sentience 
 # Pages deployment info (user site + repo path)
-url: "https://github.com/StormyFairweather"
+url: "https://stormyfairweather.github.io"
 baseurl: "/Paradox-Engine"
 
 # Collections to expose as pages
@@ -43,6 +43,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
 
 
 
