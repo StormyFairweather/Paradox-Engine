@@ -1,3 +1,7 @@
+---
+layout: default
+canonical_url: https://stormyfairweather.github.io/Paradox-Engine/
+---
 
 
 
@@ -34,6 +38,7 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 ## Zenodo Archive DOIs
 
 [All Paradox Engine, and adjacent, document DOIs are listed on the About tab.](about/)
+
 
 
 
