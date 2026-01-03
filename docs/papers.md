@@ -2,6 +2,7 @@
 title: Papers & Publications
 layout: default
 permalink: /papers/
+canonical_url: https://stormyfairweather.github.io/Paradox-Engine/
 ---
 
 # Papers & Publications (Tier 2 — Applications)
@@ -32,6 +33,7 @@ This index lists the applied work, reproducible protocols, and adjacent projects
 - [Plasma Focus Drive - Interstellar FTL Propulsion](papers/Plasma_Focus_Drive.pdf)
   
 ---
+
 
 
 
