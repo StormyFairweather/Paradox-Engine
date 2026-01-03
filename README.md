@@ -1,5 +1,8 @@
 # Paradox Engine – Core Repository
 
+[Visit the Paradox Engine website](https://stormyfairweather.github.io/Paradox-Engine/)
+
+
 The Paradox Engine (PE) is a unified conceptual framework that reframes recurrence, observability,
 and physical modeling through a minimal, non-predictive formal structure.
 
