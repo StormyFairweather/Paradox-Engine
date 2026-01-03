@@ -2,6 +2,7 @@
 title: About
 layout: default
 permalink: /about/
+canonical_url: https://stormyfairweather.github.io/Paradox-Engine/
 ---
 
 # About the Paradox Engine Project
@@ -31,6 +32,7 @@ If you are interested in reproductions, collaborations, or code access, open an 
 - [**Paradox Reactor: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17907167)
 - [**Paradox Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17822014)
 - [**Plasma Focus Drive: A Paradox Engine (PE) Hyper-Tech Application**](https://doi.org/10.5281/zenodo.17812742)
+
 
 
 
