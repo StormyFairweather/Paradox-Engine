@@ -2,6 +2,7 @@
 title: Core Documents 
 layout: default
 permalink: /core/
+canonical_url: https://stormyfairweather.github.io/Paradox-Engine/
 ---
 
 # Core Documents (Tier 1)
@@ -16,6 +17,7 @@ The Rosetta is intentionally written to translate the PE formalism into language
 - [**Paradox Engine Rosetta**](core/Paradox_Engine_Rosetta.pdf) — human-readable translation of core ideas (educational/introductory).
 
 > Read the Rosetta first if you want an accessible entry point. Use the Mathematical Core for deeper symbolic detail.
+
 
 
 
