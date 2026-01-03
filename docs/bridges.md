@@ -2,6 +2,7 @@
 title: Bridges 
 layout: default
 permalink: /bridges/
+canonical_url: https://stormyfairweather.github.io/Paradox-Engine/
 ---
 
 # Bridges (Tier 1.5)
@@ -24,6 +25,7 @@ Bridge documents provide conservative, **one-way** correspondences from Paradox 
 - Use bridges to determine which experimental signatures are PE-informative and which require conventional physics to quantify.
 
 ---
+
 
 
 
