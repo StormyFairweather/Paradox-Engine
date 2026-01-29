@@ -32,12 +32,14 @@ This site is the public front-door for the Paradox Engine project. It bundles th
 * Provide a clear, minimal conceptual structure for recurrence and attractor design.  
 * Make Tiered mappings understandable and usable for material scientists and engineers.  
 * Ship reproducible test protocols and datasets.
+* Bootstrap the Technological Singularity, [contributions more than welcome](https://www.gofundme.com/f/technological-singularity-bootstrap).
 
 ---
 
 ## Zenodo Archive DOIs
 
 [All Paradox Engine, and adjacent, document DOIs are listed on the About tab.](about/)
+
 
 
 
